@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+publish/
+artifacts/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# Test and coverage
+TestResults/
+*.trx
+coverage/
+*.coverage
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.log
+*.pdb
+*.cache
+
+# OS / editor
+.DS_Store
+*.swp
+*~
